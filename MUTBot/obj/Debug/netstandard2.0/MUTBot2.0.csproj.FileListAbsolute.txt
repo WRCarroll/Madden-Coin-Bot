@@ -1,0 +1,12 @@
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\bin\Debug\netstandard2.0\MUTBot2.0.deps.json
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\bin\Debug\netstandard2.0\MUTBot2.0.dll
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\bin\Debug\netstandard2.0\MUTBot2.0.pdb
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\bin\Debug\netstandard2.0\PS4MacroAPI.dll
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\bin\Debug\netstandard2.0\PS4MacroAPI.pdb
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\bin\Debug\netstandard2.0\PS4MacroAPI.xml
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\obj\Debug\netstandard2.0\MUTBot2.0.AssemblyInfoInputs.cache
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\obj\Debug\netstandard2.0\MUTBot2.0.AssemblyInfo.cs
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\obj\Debug\netstandard2.0\MUTBot2.0.csproj.CoreCompileInputs.cache
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\obj\Debug\netstandard2.0\MUTBot2.0.csproj.CopyComplete
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\obj\Debug\netstandard2.0\MUTBot2.0.dll
+C:\Users\willc\source\repos\MUTBot2.0\MUTBot2.0\obj\Debug\netstandard2.0\MUTBot2.0.pdb
