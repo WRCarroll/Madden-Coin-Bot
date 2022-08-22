@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>MUTBot2._0</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PS4MacroAPI">
+      <HintPath>..\..\..\..\Documents\PS4Macro-master\PS4MacroAPI\bin\Debug\PS4MacroAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
